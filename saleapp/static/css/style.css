@@ -1,0 +1,13 @@
+*{
+    font-family: tahoma;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
