@@ -33,5 +33,9 @@
             </tr>
             {% endfor %}
         </table>
+    <form action="{{ url_for('product_add') }}">
+        <input type="submit" value="Thêm sản phẩm" />
+    </form>
+
 </body>
 </html>
